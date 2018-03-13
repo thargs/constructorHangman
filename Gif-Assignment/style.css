@@ -1,0 +1,40 @@
+.jumbotron {
+    background-image: url("../images/spiration-light.png")
+}
+
+button {
+    margin: 3px;
+}
+
+.heroInfo {
+    float: left;
+    margin: 4px;
+}
+
+.sub {
+    margin-top: 3%;
+}
+
+#hero-input {
+    width: 90%;
+}
+
+#heroButtons {
+    margin-bottom: 10px;
+}
+
+.card{
+    float: left; display: inline;
+}
+
+
+footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    height: 80px;
+    background-color: black;
+    color: rgb(156, 153, 153);
+    text-align: center;
+    padding-top: 20px;
+  }
