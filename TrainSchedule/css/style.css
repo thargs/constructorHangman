@@ -1,0 +1,31 @@
+body {
+    background-image: url("../images/bgTrax.jpg");
+    background-repeat: no-repeat;
+    background-size: 200% 200%;
+}
+
+.jumbotron {
+    background-image: url("../images/utaFR.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: rgb(54, 54, 54);
+    text-shadow: 2px 2px red;
+}
+
+h2 {
+    color: white;
+    text-shadow: 2px 2px blue;
+}
+
+p {
+    color: white;
+    text-shadow: 2px 2px gray;
+}
+
+#addTrainBtn {
+    background-color: rgb(54, 54, 54);
+    border-color: red;
+}
