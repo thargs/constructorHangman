@@ -1,0 +1,14 @@
+{
+  "name": "Constructor Hangman",
+  "version": "1.0.0",
+  "description": "Constructor Hangman Game",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garth Smith",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
